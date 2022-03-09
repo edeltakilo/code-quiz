@@ -10,7 +10,8 @@ body {
 
 #top {
     width:65%;
-    margin:auto;
+    margin-left:auto;
+    margin-right:auto;
     text-align:center;
 }
 

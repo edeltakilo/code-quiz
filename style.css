@@ -13,6 +13,7 @@ body {
 #maindiv {
    width:65%;
     margin:auto;
+    overflow-x:auto;
 }
 
 .space {

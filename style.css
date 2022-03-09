@@ -9,21 +9,20 @@ body {
 /* id's */
 
 #top {
-    width:65%;
     margin-left:auto;
     margin-right:auto;
     text-align:center;
 }
 
 #maindiv {
-    margin:auto;
+    margin-left:auto;
+    margin-right: auto;
     overflow-x:auto;
 }
 
 
 
 #bottom {
-    width:65%;
     margin-left:auto;
     margin-right:auto;
     text-align:center;

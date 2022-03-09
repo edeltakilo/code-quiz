@@ -15,7 +15,6 @@ body {
 }
 
 #maindiv {
-   width:80%;
     margin:auto;
     overflow-x:auto;
 }
@@ -33,8 +32,8 @@ body {
 #logo {
    float:right;
    position:absolute;
-   margin-top:200px;
-   margin-left:50px;
+   margin-top:210px;
+   margin-left:40px;
 }
 
 #bigred {

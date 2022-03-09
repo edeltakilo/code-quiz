@@ -37,6 +37,25 @@ body {
    margin-left:50px;
 }
 
+#bigred {
+    text-align:left;
+    margin-left:20px;
+}
+
+#quotetext {
+    margin-left:20px;
+    text-align: left;
+    font-size:12px;
+    color:cadetblue;
+}
+
+#whosaidit {
+    margin-left:20px;
+    text-align: left;
+    font-size:10px;
+    color:brown;
+    font-weight: bold;
+}
 
 
 /* classes */
